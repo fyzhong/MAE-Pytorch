@@ -1,0 +1,4 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: /data/private/zyf/mae/test/trains.txt  # 118k images
+val: /data/private/zyf/mae/test/vals.txt  # 5k images
+test: /data/private/zyf/mae/test/test.txt  # 20k images for submission to https://competitions.codalab.org/competitions/20794

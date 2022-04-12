@@ -1,0 +1,4 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: /data/private/zyf/mae/Trains.txt  # 118k images
+val: /data/private/zyf/mae/Vals.txt  # 5k images
+test: /data/private/zyf/roadsign/tests.txt  #
